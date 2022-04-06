@@ -18,7 +18,7 @@
 ### Basic Formation
 ### Player Selection
 ### Alternative Formations
-#### Other Considerations
+### Other Considerations
 
 ## Economic Impact
 ### Revenue Projection
