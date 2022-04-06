@@ -1,5 +1,9 @@
 # Rarita's National Football Team Project
 
+##Group 123
+
+###Author: JiaXuan Muk, Erica Soenarjo, Viana Francisca Dewi, HiuMing Yip, Yolanda Li
+
 _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benjamin Franklin_
 
 ---
