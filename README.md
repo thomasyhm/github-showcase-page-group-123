@@ -4,10 +4,10 @@
 
 ### Author: 
 >
-* JiaXuan Muk
+* Jia Xuan Muk
 * Erica Soenarjo
 * Viana Francisca Dewi
-* HiuMing Yip
+* Hiu Ming Yip
 * Yolanda Li
 
 ## Executive Summary
