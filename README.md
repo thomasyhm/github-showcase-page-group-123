@@ -2,7 +2,23 @@
 
 ## Group 123
 
-### Author: JiaXuan Muk, Erica Soenarjo, Viana Francisca Dewi, HiuMing Yip, Yolanda Li
+### Author: 
+>
+* JiaXuan Muk
+* Erica Soenarjo
+* Viana Francisca Dewi
+* HiuMing Yip
+* Yolanda Li
+
+## Executive Summary
+
+## Objectives
+
+## Team Selection
+### Basic Formation
+### Player Selection
+### Alternative Formations
+#### Other Considerations
 
 _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benjamin Franklin_
 
